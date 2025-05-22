@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">https://milacoin.com/</h3>
+<h3 align="center">https://milacoin.org/</h3>
 
 ---
 
