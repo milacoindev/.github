@@ -17,7 +17,7 @@ Our goal for the coin is to optimize it for flexibility and widespread, everyday
 ### Why should I buy MilaCoin?
 There are many features in this cryptocurrency that you might like, these features include:
 - Fast transactions
-- Extremely low transaction fees
+- Low transaction fees
 - Optional privacy for transactions by utilizing techniques similar to Monero.
 - Optimized for GPU mining (ASIC-Resistant)
 
