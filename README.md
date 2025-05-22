@@ -1,9 +1,8 @@
-# MilaCoin
-### The last piece of the puzzle
+<h1 align="center">MilaCoin</h1>
 
 ---
 
-https://milacoin.com/
+<h3 align="center">https://milacoin.com/</h3>
 
 ---
 
