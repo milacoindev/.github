@@ -21,6 +21,7 @@ There are many features in this cryptocurrency that you might like, these featur
 - Optional privacy for transactions by utilizing techniques similar to Monero.
 - Optimized for GPU mining (ASIC-Resistant)
 - Protection against inflation
+- Utilization of a new type of blockchain structure.
 
 ---
 
