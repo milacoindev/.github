@@ -9,7 +9,7 @@
 ## Introduction
 
 ### What is the MilaCoin?
-The MilaCoin is a decentralized, proof-of-work and proof-of-history cryptocurrency developed by ISTEK under MilaCoin Development and inspired by my girlfriend's name.
+The MilaCoin is a decentralized, proof-of-diverse-work cryptocurrency developed by ISTEK under MilaCoin Development and inspired by my girlfriend's name.
 
 ### What purpose does MilaCoin serve?
 Our goal for the coin is to optimize it for flexibility and widespread, everyday usage.
